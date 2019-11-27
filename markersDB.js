@@ -1,5 +1,35 @@
 var markersDB={
-  "Metro_Stationsebea_8cc8": {
+  "Industrybbea_7781": {
+    "created": false,
+    "raw": [
+      {
+        "x": -756,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/farm.png",
+        "text": "Jackson Av Co-Op",
+        "hovertext": "Jackson Av Co-Op"
+      },
+      {
+        "x": -775,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/factory.png",
+        "text": "Forge",
+        "hovertext": "Forge"
+      },
+      {
+        "x": -797,
+        "y": 64,
+        "z": -372,
+        "icon": "icons/power_tower_small.png",
+        "text": "South Street Geothermal Power Station",
+        "hovertext": "South Street Geothermal Power Station"
+      }
+    ],
+    "name": "Industry"
+  },
+  "Metro_Stations440e_7781": {
     "created": false,
     "raw": [
       {
@@ -33,7 +63,20 @@ var markersDB={
     ],
     "name": "Metro Stations"
   },
-  "Townsebd9_8cc8": {
+  "Oil441f_7781": {
+    "created": false,
+    "raw": [
+      {
+        "x": -694,
+        "y": 64,
+        "z": -431,
+        "text": "Oil Spout #1",
+        "hovertext": "Oil Spout #1"
+      }
+    ],
+    "name": "Oil"
+  },
+  "Townsbbd9_7781": {
     "created": false,
     "raw": [
       {
@@ -59,35 +102,5 @@ var markersDB={
       }
     ],
     "name": "Towns"
-  },
-  "Industry141f_8cc8": {
-    "created": false,
-    "raw": [
-      {
-        "x": -756,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/farm.png",
-        "text": "Jackson Av Co-Op",
-        "hovertext": "Jackson Av Co-Op"
-      },
-      {
-        "x": -775,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/factory.png",
-        "text": "Forge",
-        "hovertext": "Forge"
-      },
-      {
-        "x": -797,
-        "y": 64,
-        "z": -372,
-        "icon": "icons/power_tower_small.png",
-        "text": "South Street Geothermal Power Station",
-        "hovertext": "South Street Geothermal Power Station"
-      }
-    ],
-    "name": "Industry"
   }
 };
