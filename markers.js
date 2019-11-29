@@ -1,28 +1,28 @@
 var markers={
   "normal": [
     {
-      "groupName": "Townscbd9_b7f9",
+      "groupName": "Townsdbd9_2073",
       "displayName": "Towns",
       "icon": "icons/dot-white.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Oil341f_b7f9",
+      "groupName": "Oil241f_2073",
       "displayName": "Oil",
       "icon": "icons/petroleum_well.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Industrycbea_b7f9",
+      "groupName": "Industrydbea_2073",
       "displayName": "Industry",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Metro_Stations340e_b7f9",
+      "groupName": "Metro_Stations240e_2073",
       "displayName": "Metro Stations",
       "icon": "icons/station.png",
       "createInfoWindow": true,

@@ -1,5 +1,5 @@
 var markersDB={
-  "Townscbd9_b7f9": {
+  "Townsdbd9_2073": {
     "created": false,
     "raw": [
       {
@@ -26,7 +26,7 @@ var markersDB={
     ],
     "name": "Towns"
   },
-  "Industrycbea_b7f9": {
+  "Industrydbea_2073": {
     "created": false,
     "raw": [
       {
@@ -80,7 +80,7 @@ var markersDB={
     ],
     "name": "Industry"
   },
-  "Metro_Stations340e_b7f9": {
+  "Metro_Stations240e_2073": {
     "created": false,
     "raw": [
       {
@@ -105,6 +105,27 @@ var markersDB={
         "hovertext": "Jackson Avenue\nLines:1 2 3 4 "
       },
       {
+        "x": -713,
+        "y": 64,
+        "z": -562,
+        "text": "<img src=\"https://i.imgur.com/SWq64CI.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "36th Street-Old North\nLines:1 "
+      },
+      {
+        "x": -759,
+        "y": 64,
+        "z": -628,
+        "text": "<img src=\"https://i.imgur.com/xuStj4g.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "Henry Hill\nLines:1 "
+      },
+      {
+        "x": -835,
+        "y": 64,
+        "z": -637,
+        "text": "<img src=\"https://i.imgur.com/RJKiy2Y.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local and Express).",
+        "hovertext": "North Beach\nLines:1 2 3 "
+      },
+      {
         "x": -774,
         "y": 64,
         "z": -325,
@@ -114,7 +135,7 @@ var markersDB={
     ],
     "name": "Metro Stations"
   },
-  "Oil341f_b7f9": {
+  "Oil241f_2073": {
     "created": false,
     "raw": [
       {
