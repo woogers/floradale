@@ -1,32 +1,186 @@
 var markersDB={
-  "Townsbbd9_4e52": {
+  "Oilebea_1f04": {
     "created": false,
     "raw": [
       {
-        "x": -713,
+        "x": -694,
         "y": 64,
-        "z": -506,
-        "text": "Floradale",
-        "hovertext": "Floradale"
+        "z": -431,
+        "text": "Oil Spout #1",
+        "hovertext": "Oil Spout #1"
       },
       {
-        "x": -695,
+        "x": -855,
         "y": 64,
-        "z": -656,
-        "text": "Henry Hill",
-        "hovertext": "Henry Hill"
+        "z": -407,
+        "text": "Oil Spout #2",
+        "hovertext": "Oil Spout #2"
       },
       {
-        "x": -950,
+        "x": -777,
         "y": 64,
-        "z": -417,
-        "text": "Old Town Floradale",
-        "hovertext": "Old Town Floradale"
+        "z": -1572,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -397,
+        "y": 64,
+        "z": -1667,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -584,
+        "y": 64,
+        "z": -786,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -771,
+        "y": 64,
+        "z": 738,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -718,
+        "y": 64,
+        "z": 726,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -588,
+        "y": 64,
+        "z": 887,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -294,
+        "y": 64,
+        "z": 104,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -1905,
+        "y": 64,
+        "z": -2009,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -815,
+        "y": 64,
+        "z": -1848,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -1178,
+        "y": 64,
+        "z": -1882,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -1132,
+        "y": 64,
+        "z": -2668,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -860,
+        "y": 64,
+        "z": -2652,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -705,
+        "y": 64,
+        "z": -2769,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -180,
+        "y": 64,
+        "z": -2759,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -1593,
+        "y": 64,
+        "z": -730,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -1295,
+        "y": 64,
+        "z": -785,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -1357,
+        "y": 64,
+        "z": -9,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": 361,
+        "y": 64,
+        "z": -253,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -770,
+        "y": 64,
+        "z": -1100,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -790,
+        "y": 64,
+        "z": -2477,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -1110,
+        "y": 64,
+        "z": -611,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": -992,
+        "y": 64,
+        "z": -702,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
+      },
+      {
+        "x": 202,
+        "y": 64,
+        "z": -7,
+        "text": "Possible Oil",
+        "hovertext": "Possible Oil"
       }
     ],
-    "name": "Towns"
+    "name": "Oil"
   },
-  "Metro_Stations43fc_4e52": {
+  "Metro_Stationsec0d_1f04": {
     "created": false,
     "raw": [
       {
@@ -54,7 +208,7 @@ var markersDB={
         "x": -774,
         "y": 64,
         "z": -592,
-        "text": "<img src=\"https://i.imgur.com/kCuDu7O.png\" width=\"300\"><br \\>Service provided on the North Street Line (Local).",
+        "text": "<img src=\"https://i.imgur.com/Hb1uRIN.png\" width=\"300\"><br \\>Service provided on the North Street Line (Local).",
         "hovertext": "37-38 Streets Viaduct\nLines:3 "
       },
       {
@@ -91,11 +245,56 @@ var markersDB={
         "z": -325,
         "text": "<img src=\"https://i.imgur.com/nuIUTLa.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local).",
         "hovertext": "20th Street\nLines:1 "
+      },
+      {
+        "x": 9223372036854775807,
+        "y": 9223372036854775807,
+        "z": 9223372036854775807,
+        "text": "1",
+        "hovertext": "1",
+        "polyline": [
+          {
+            "x": -835,
+            "y": 64,
+            "z": -637
+          },
+          {
+            "x": -759,
+            "y": 64,
+            "z": -628
+          },
+          {
+            "x": -713,
+            "y": 64,
+            "z": -562
+          },
+          {
+            "x": -719,
+            "y": 64,
+            "z": -518
+          },
+          {
+            "x": -774,
+            "y": 64,
+            "z": -475
+          },
+          {
+            "x": -774,
+            "y": 64,
+            "z": -385
+          },
+          {
+            "x": -774,
+            "y": 64,
+            "z": -325
+          }
+        ],
+        "strokeColor": "#00b2a9"
       }
     ],
     "name": "Metro Stations"
   },
-  "Park440e_4e52": {
+  "Park13fc_1f04": {
     "created": false,
     "raw": [
       {
@@ -115,7 +314,55 @@ var markersDB={
     ],
     "name": "Park"
   },
-  "Industrybbea_4e52": {
+  "Towns141f_1f04": {
+    "created": false,
+    "raw": [
+      {
+        "x": -713,
+        "y": 64,
+        "z": -506,
+        "text": "Floradale",
+        "hovertext": "Floradale"
+      },
+      {
+        "x": -695,
+        "y": 64,
+        "z": -656,
+        "text": "Henry Hill",
+        "hovertext": "Henry Hill"
+      },
+      {
+        "x": -950,
+        "y": 64,
+        "z": -417,
+        "text": "Old Town Floradale",
+        "hovertext": "Old Town Floradale"
+      },
+      {
+        "x": -495,
+        "y": 64,
+        "z": -2910,
+        "text": "Highlands",
+        "hovertext": "Highlands"
+      },
+      {
+        "x": -1322,
+        "y": 64,
+        "z": -2349,
+        "text": "Rivers",
+        "hovertext": "Rivers"
+      },
+      {
+        "x": -1899,
+        "y": 64,
+        "z": -268,
+        "text": "Beach Resort",
+        "hovertext": "Beach Resort"
+      }
+    ],
+    "name": "Towns"
+  },
+  "Industry140e_1f04": {
     "created": false,
     "raw": [
       {
@@ -169,24 +416,26 @@ var markersDB={
     ],
     "name": "Industry"
   },
-  "Oil441f_4e52": {
+  "Points_of_Interestebd9_1f04": {
     "created": false,
     "raw": [
       {
-        "x": -694,
+        "x": -1813,
         "y": 64,
-        "z": -431,
-        "text": "Oil Spout #1",
-        "hovertext": "Oil Spout #1"
+        "z": -2247,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
       },
       {
-        "x": -855,
+        "x": -174,
         "y": 64,
-        "z": -407,
-        "text": "Oil Spout #2",
-        "hovertext": "Oil Spout #2"
+        "z": -672,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
       }
     ],
-    "name": "Oil"
+    "name": "Points of Interest"
   }
 };
