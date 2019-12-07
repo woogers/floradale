@@ -1,5 +1,79 @@
 var markersDB={
-  "Oilebea_1f04": {
+  "Park23fc_e1e3": {
+    "created": false,
+    "raw": [
+      {
+        "x": -772,
+        "y": 64,
+        "z": -507,
+        "text": "City Hall Park",
+        "hovertext": "City Hall Park"
+      },
+      {
+        "x": -819,
+        "y": 64,
+        "z": -629,
+        "text": "12/1 Memorial Park",
+        "hovertext": "12/1 Memorial Park"
+      }
+    ],
+    "name": "Park"
+  },
+  "Industry240e_e1e3": {
+    "created": false,
+    "raw": [
+      {
+        "x": -756,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/farm.png",
+        "text": "Jackson Av Co-Op",
+        "hovertext": "Jackson Av Co-Op"
+      },
+      {
+        "x": -775,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/factory.png",
+        "text": "Forge",
+        "hovertext": "Forge"
+      },
+      {
+        "x": -797,
+        "y": 64,
+        "z": -372,
+        "icon": "icons/power_tower_small.png",
+        "text": "South Street Geothermal Power Station",
+        "hovertext": "South Street Geothermal Power Station"
+      },
+      {
+        "x": -760,
+        "y": 64,
+        "z": -341,
+        "icon": "icons/forest.png",
+        "text": "Tree Farm",
+        "hovertext": "Tree Farm"
+      },
+      {
+        "x": -758,
+        "y": 64,
+        "z": -370,
+        "icon": "icons/farm.png",
+        "text": "Pasture",
+        "hovertext": "Pasture"
+      },
+      {
+        "x": -790,
+        "y": 64,
+        "z": -341,
+        "icon": "icons/florist.png",
+        "text": "Apiary",
+        "hovertext": "Apiary"
+      }
+    ],
+    "name": "Industry"
+  },
+  "Oildbea_e1e3": {
     "created": false,
     "raw": [
       {
@@ -176,11 +250,95 @@ var markersDB={
         "z": -7,
         "text": "Possible Oil",
         "hovertext": "Possible Oil"
+      },
+      {
+        "x": -150,
+        "y": 64,
+        "z": -500,
+        "text": "Oil Spout #3",
+        "hovertext": "Oil Spout #3"
+      },
+      {
+        "x": -1070,
+        "y": 64,
+        "z": 290,
+        "text": "Oil Spout #4",
+        "hovertext": "Oil Spout #4"
       }
     ],
     "name": "Oil"
   },
-  "Metro_Stationsec0d_1f04": {
+  "Points_of_Interestdbd9_e1e3": {
+    "created": false,
+    "raw": [
+      {
+        "x": -1813,
+        "y": 64,
+        "z": -2247,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
+      },
+      {
+        "x": -174,
+        "y": 64,
+        "z": -672,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
+      }
+    ],
+    "name": "Points of Interest"
+  },
+  "Towns241f_e1e3": {
+    "created": false,
+    "raw": [
+      {
+        "x": -713,
+        "y": 64,
+        "z": -506,
+        "text": "Floradale",
+        "hovertext": "Floradale"
+      },
+      {
+        "x": -695,
+        "y": 64,
+        "z": -656,
+        "text": "Henry Hill",
+        "hovertext": "Henry Hill"
+      },
+      {
+        "x": -950,
+        "y": 64,
+        "z": -417,
+        "text": "Old Town Floradale",
+        "hovertext": "Old Town Floradale"
+      },
+      {
+        "x": -495,
+        "y": 64,
+        "z": -2910,
+        "text": "Highlands",
+        "hovertext": "Highlands"
+      },
+      {
+        "x": -1322,
+        "y": 64,
+        "z": -2349,
+        "text": "Rivers",
+        "hovertext": "Rivers"
+      },
+      {
+        "x": -1899,
+        "y": 64,
+        "z": -268,
+        "text": "Beach Resort",
+        "hovertext": "Beach Resort"
+      }
+    ],
+    "name": "Towns"
+  },
+  "Metro_Stationsdc0d_e1e3": {
     "created": false,
     "raw": [
       {
@@ -247,6 +405,27 @@ var markersDB={
         "hovertext": "20th Street\nLines:1 "
       },
       {
+        "x": -774,
+        "y": 64,
+        "z": -271,
+        "text": "<img src=\"https://i.imgur.com/sbzlrvR.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "16th Street\nLines:1 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -210,
+        "text": "<img src=\"https://i.imgur.com/9bOcmwX.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local and Express).",
+        "hovertext": "Post Square - 12th Street\nLines:1 2 3 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -142,
+        "text": "<img src=\"https://i.imgur.com/dVyCxlU.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "Corporation Center\nLines:1 "
+      },
+      {
         "x": 9223372036854775807,
         "y": 9223372036854775807,
         "z": 9223372036854775807,
@@ -293,149 +472,5 @@ var markersDB={
       }
     ],
     "name": "Metro Stations"
-  },
-  "Park13fc_1f04": {
-    "created": false,
-    "raw": [
-      {
-        "x": -772,
-        "y": 64,
-        "z": -507,
-        "text": "City Hall Park",
-        "hovertext": "City Hall Park"
-      },
-      {
-        "x": -819,
-        "y": 64,
-        "z": -629,
-        "text": "12/1 Memorial Park",
-        "hovertext": "12/1 Memorial Park"
-      }
-    ],
-    "name": "Park"
-  },
-  "Towns141f_1f04": {
-    "created": false,
-    "raw": [
-      {
-        "x": -713,
-        "y": 64,
-        "z": -506,
-        "text": "Floradale",
-        "hovertext": "Floradale"
-      },
-      {
-        "x": -695,
-        "y": 64,
-        "z": -656,
-        "text": "Henry Hill",
-        "hovertext": "Henry Hill"
-      },
-      {
-        "x": -950,
-        "y": 64,
-        "z": -417,
-        "text": "Old Town Floradale",
-        "hovertext": "Old Town Floradale"
-      },
-      {
-        "x": -495,
-        "y": 64,
-        "z": -2910,
-        "text": "Highlands",
-        "hovertext": "Highlands"
-      },
-      {
-        "x": -1322,
-        "y": 64,
-        "z": -2349,
-        "text": "Rivers",
-        "hovertext": "Rivers"
-      },
-      {
-        "x": -1899,
-        "y": 64,
-        "z": -268,
-        "text": "Beach Resort",
-        "hovertext": "Beach Resort"
-      }
-    ],
-    "name": "Towns"
-  },
-  "Industry140e_1f04": {
-    "created": false,
-    "raw": [
-      {
-        "x": -756,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/farm.png",
-        "text": "Jackson Av Co-Op",
-        "hovertext": "Jackson Av Co-Op"
-      },
-      {
-        "x": -775,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/factory.png",
-        "text": "Forge",
-        "hovertext": "Forge"
-      },
-      {
-        "x": -797,
-        "y": 64,
-        "z": -372,
-        "icon": "icons/power_tower_small.png",
-        "text": "South Street Geothermal Power Station",
-        "hovertext": "South Street Geothermal Power Station"
-      },
-      {
-        "x": -760,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/forest.png",
-        "text": "Tree Farm",
-        "hovertext": "Tree Farm"
-      },
-      {
-        "x": -758,
-        "y": 64,
-        "z": -370,
-        "icon": "icons/farm.png",
-        "text": "Pasture",
-        "hovertext": "Pasture"
-      },
-      {
-        "x": -790,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/florist.png",
-        "text": "Apiary",
-        "hovertext": "Apiary"
-      }
-    ],
-    "name": "Industry"
-  },
-  "Points_of_Interestebd9_1f04": {
-    "created": false,
-    "raw": [
-      {
-        "x": -1813,
-        "y": 64,
-        "z": -2247,
-        "icon": "icons/obelisk.png",
-        "text": "Desert Pyramid",
-        "hovertext": "Desert Pyramid"
-      },
-      {
-        "x": -174,
-        "y": 64,
-        "z": -672,
-        "icon": "icons/obelisk.png",
-        "text": "Unknown",
-        "hovertext": "Unknown"
-      }
-    ],
-    "name": "Points of Interest"
   }
 };
