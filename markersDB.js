@@ -1,147 +1,73 @@
 var markersDB={
-  "Metro_Stations6c0d_2dd7": {
+  "Townse41f_ee73": {
     "created": false,
     "raw": [
       {
-        "x": -719,
-        "y": 64,
-        "z": -518,
-        "text": "<img src=\"https://i.imgur.com/H5QSkuk.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local and Express). Connections to Isafene Dales Regional Rail at Central Station.",
-        "hovertext": "Central Station\nLines:1 2 "
-      },
-      {
-        "x": -774,
-        "y": 64,
-        "z": -475,
-        "text": "<img src=\"https://i.imgur.com/v73bAbL.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local).",
-        "hovertext": "Daniffen Bridge\nLines:1 "
-      },
-      {
-        "x": -774,
-        "y": 64,
-        "z": -520,
-        "text": "<img src=\"https://i.imgur.com/xOko3jm.png\" width=\"300\"><br \\>Service provided on the North Street Line (Local).",
-        "hovertext": "City Hall\nLines:3 "
-      },
-      {
-        "x": -774,
-        "y": 64,
-        "z": -592,
-        "text": "<img src=\"https://i.imgur.com/Hb1uRIN.png\" width=\"300\"><br \\>Service provided on the North Street Line (Local).",
-        "hovertext": "37-38 Streets Viaduct\nLines:3 "
-      },
-      {
-        "x": -774,
-        "y": 64,
-        "z": -385,
-        "text": "<img src=\"https://i.imgur.com/NqZFyNm.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local and Express) and the Jackson Avenue Line.",
-        "hovertext": "Jackson Avenue\nLines:1 2 3 4 "
-      },
-      {
-        "x": -830,
-        "y": 64,
-        "z": -385,
-        "text": "<img src=\"https://i.imgur.com/ygtWGao.png\" width=\"300\"><br \\>Service provided on the Jackson Avenue Line.",
-        "hovertext": "Khazad Dum Avenue\nLines:4 "
-      },
-      {
         "x": -713,
         "y": 64,
-        "z": -562,
-        "text": "<img src=\"https://i.imgur.com/SWq64CI.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
-        "hovertext": "36th Street-Old North\nLines:1 "
+        "z": -506,
+        "text": "Floradale",
+        "hovertext": "Floradale"
       },
       {
-        "x": -759,
+        "x": -695,
         "y": 64,
-        "z": -628,
-        "text": "<img src=\"https://i.imgur.com/xuStj4g.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
-        "hovertext": "Henry Hill\nLines:1 "
+        "z": -656,
+        "text": "Henry Hill",
+        "hovertext": "Henry Hill"
       },
       {
-        "x": -835,
+        "x": -950,
         "y": 64,
-        "z": -637,
-        "text": "<img src=\"https://i.imgur.com/RJKiy2Y.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local and Express).",
-        "hovertext": "North Beach\nLines:1 2 3 "
+        "z": -417,
+        "text": "Old Town Floradale",
+        "hovertext": "Old Town Floradale"
       },
       {
-        "x": -774,
+        "x": -495,
         "y": 64,
-        "z": -325,
-        "text": "<img src=\"https://i.imgur.com/nuIUTLa.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local).",
-        "hovertext": "20th Street\nLines:1 "
+        "z": -2910,
+        "text": "Highlands",
+        "hovertext": "Highlands"
       },
       {
-        "x": -774,
+        "x": -1322,
         "y": 64,
-        "z": -271,
-        "text": "<img src=\"https://i.imgur.com/sbzlrvR.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
-        "hovertext": "16th Street\nLines:1 "
+        "z": -2349,
+        "text": "Rivers",
+        "hovertext": "Rivers"
       },
       {
-        "x": -774,
+        "x": -1899,
         "y": 64,
-        "z": -210,
-        "text": "<img src=\"https://i.imgur.com/9bOcmwX.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local and Express).",
-        "hovertext": "Post Square - 12th Street\nLines:1 2 3 "
-      },
-      {
-        "x": -774,
-        "y": 64,
-        "z": -142,
-        "text": "<img src=\"https://i.imgur.com/dVyCxlU.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
-        "hovertext": "Corporation Center\nLines:1 "
-      },
-      {
-        "x": 9223372036854775807,
-        "y": 9223372036854775807,
-        "z": 9223372036854775807,
-        "text": "1",
-        "hovertext": "1",
-        "polyline": [
-          {
-            "x": -835,
-            "y": 64,
-            "z": -637
-          },
-          {
-            "x": -759,
-            "y": 64,
-            "z": -628
-          },
-          {
-            "x": -713,
-            "y": 64,
-            "z": -562
-          },
-          {
-            "x": -719,
-            "y": 64,
-            "z": -518
-          },
-          {
-            "x": -774,
-            "y": 64,
-            "z": -475
-          },
-          {
-            "x": -774,
-            "y": 64,
-            "z": -385
-          },
-          {
-            "x": -774,
-            "y": 64,
-            "z": -325
-          }
-        ],
-        "strokeColor": "#00b2a9"
+        "z": -268,
+        "text": "Beach Resort",
+        "hovertext": "Beach Resort"
       }
     ],
-    "name": "Metro Stations"
+    "name": "Towns"
   },
-  "Park93fc_2dd7": {
+  "Regional_Rail_Stations1c0d_ee73": {
+    "created": false,
+    "raw": [
+      {
+        "x": -727,
+        "y": 64,
+        "z": -519,
+        "text": "Floradale Central Station",
+        "hovertext": "Floradale Central Station"
+      },
+      {
+        "x": -962,
+        "y": 64,
+        "z": -600,
+        "text": "Cage Junction",
+        "hovertext": "Cage Junction"
+      }
+    ],
+    "name": "Regional Rail Stations"
+  },
+  "Parke3fc_ee73": {
     "created": false,
     "raw": [
       {
@@ -161,29 +87,7 @@ var markersDB={
     ],
     "name": "Park"
   },
-  "Points_of_Interest6bd9_2dd7": {
-    "created": false,
-    "raw": [
-      {
-        "x": -1813,
-        "y": 64,
-        "z": -2247,
-        "icon": "icons/obelisk.png",
-        "text": "Desert Pyramid",
-        "hovertext": "Desert Pyramid"
-      },
-      {
-        "x": -174,
-        "y": 64,
-        "z": -672,
-        "icon": "icons/obelisk.png",
-        "text": "Unknown",
-        "hovertext": "Unknown"
-      }
-    ],
-    "name": "Points of Interest"
-  },
-  "Oil6bea_2dd7": {
+  "Oil1bea_ee73": {
     "created": false,
     "raw": [
       {
@@ -371,55 +275,178 @@ var markersDB={
     ],
     "name": "Oil"
   },
-  "Towns941f_2dd7": {
+  "Points_of_Interest1bd9_ee73": {
     "created": false,
     "raw": [
       {
-        "x": -713,
+        "x": -1813,
         "y": 64,
-        "z": -506,
-        "text": "Floradale",
-        "hovertext": "Floradale"
+        "z": -2247,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
       },
       {
-        "x": -695,
+        "x": -174,
         "y": 64,
-        "z": -656,
-        "text": "Henry Hill",
-        "hovertext": "Henry Hill"
-      },
-      {
-        "x": -950,
-        "y": 64,
-        "z": -417,
-        "text": "Old Town Floradale",
-        "hovertext": "Old Town Floradale"
-      },
-      {
-        "x": -495,
-        "y": 64,
-        "z": -2910,
-        "text": "Highlands",
-        "hovertext": "Highlands"
-      },
-      {
-        "x": -1322,
-        "y": 64,
-        "z": -2349,
-        "text": "Rivers",
-        "hovertext": "Rivers"
-      },
-      {
-        "x": -1899,
-        "y": 64,
-        "z": -268,
-        "text": "Beach Resort",
-        "hovertext": "Beach Resort"
+        "z": -672,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
       }
     ],
-    "name": "Towns"
+    "name": "Points of Interest"
   },
-  "Industry940e_2dd7": {
+  "Metro_Stationse3eb_ee73": {
+    "created": false,
+    "raw": [
+      {
+        "x": -719,
+        "y": 64,
+        "z": -518,
+        "text": "<img src=\"https://i.imgur.com/H5QSkuk.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local and Express). Connections to Isafene Dales Regional Rail at Central Station.",
+        "hovertext": "Central Station\nLines:1 2 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -475,
+        "text": "<img src=\"https://i.imgur.com/v73bAbL.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local).",
+        "hovertext": "Daniffen Bridge\nLines:1 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -520,
+        "text": "<img src=\"https://i.imgur.com/xOko3jm.png\" width=\"300\"><br \\>Service provided on the North Street Line (Local).",
+        "hovertext": "City Hall\nLines:3 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -592,
+        "text": "<img src=\"https://i.imgur.com/Hb1uRIN.png\" width=\"300\"><br \\>Service provided on the North Street Line (Local).",
+        "hovertext": "37-38 Streets Viaduct\nLines:3 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -385,
+        "text": "<img src=\"https://i.imgur.com/NqZFyNm.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local and Express) and the Jackson Avenue Line.",
+        "hovertext": "Jackson Avenue\nLines:1 2 3 4 "
+      },
+      {
+        "x": -830,
+        "y": 64,
+        "z": -385,
+        "text": "<img src=\"https://i.imgur.com/ygtWGao.png\" width=\"300\"><br \\>Service provided on the Jackson Avenue Line.",
+        "hovertext": "Khazad Dum Avenue\nLines:4 "
+      },
+      {
+        "x": -713,
+        "y": 64,
+        "z": -562,
+        "text": "<img src=\"https://i.imgur.com/SWq64CI.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "36th Street-Old North\nLines:1 "
+      },
+      {
+        "x": -759,
+        "y": 64,
+        "z": -628,
+        "text": "<img src=\"https://i.imgur.com/xuStj4g.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "Henry Hill\nLines:1 "
+      },
+      {
+        "x": -835,
+        "y": 64,
+        "z": -637,
+        "text": "<img src=\"https://i.imgur.com/RJKiy2Y.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local and Express).",
+        "hovertext": "North Beach\nLines:1 2 3 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -325,
+        "text": "<img src=\"https://i.imgur.com/nuIUTLa.png\" width=\"300\"><br \\>Service provided on the South Street Line (Local).",
+        "hovertext": "20th Street\nLines:1 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -271,
+        "text": "<img src=\"https://i.imgur.com/sbzlrvR.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "16th Street\nLines:1 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -210,
+        "text": "<img src=\"https://i.imgur.com/9bOcmwX.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local and Express).",
+        "hovertext": "Post Square - 12th Street\nLines:1 2 3 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -142,
+        "text": "<img src=\"https://i.imgur.com/dVyCxlU.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local).",
+        "hovertext": "Corporation Center\nLines:1 "
+      },
+      {
+        "x": -774,
+        "y": 64,
+        "z": -92,
+        "text": "<img src=\"https://i.imgur.com/JY1DWDN.png\" width=\"300\"><br \\>Service provided on the Front Street Line (Local and Express).",
+        "hovertext": "Water Street - Ferry\nLines:1 2 3 "
+      },
+      {
+        "x": 9223372036854775807,
+        "y": 9223372036854775807,
+        "z": 9223372036854775807,
+        "text": "1",
+        "hovertext": "1",
+        "polyline": [
+          {
+            "x": -835,
+            "y": 64,
+            "z": -637
+          },
+          {
+            "x": -759,
+            "y": 64,
+            "z": -628
+          },
+          {
+            "x": -713,
+            "y": 64,
+            "z": -562
+          },
+          {
+            "x": -719,
+            "y": 64,
+            "z": -518
+          },
+          {
+            "x": -774,
+            "y": 64,
+            "z": -475
+          },
+          {
+            "x": -774,
+            "y": 64,
+            "z": -385
+          },
+          {
+            "x": -774,
+            "y": 64,
+            "z": -325
+          }
+        ],
+        "strokeColor": "#00b2a9"
+      }
+    ],
+    "name": "Metro Stations"
+  },
+  "Industrye40e_ee73": {
     "created": false,
     "raw": [
       {
