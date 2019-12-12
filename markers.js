@@ -1,56 +1,56 @@
 var markers={
   "normal": [
     {
-      "groupName": "Towns441f_90cd",
+      "groupName": "Towns3ffc_364c",
       "displayName": "Towns",
       "icon": "icons/town_hall.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Oilbbea_90cd",
+      "groupName": "Oil440e_364c",
       "displayName": "Oil",
       "icon": "icons/petroleum_well.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Industry440e_90cd",
+      "groupName": "Industryc00d_364c",
       "displayName": "Industry",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Points_of_Interestbbd9_90cd",
+      "groupName": "Points_of_Interest4430_364c",
       "displayName": "Points of Interest",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Playersbc0d_90cd",
+      "groupName": "Playersc01e_364c",
       "displayName": "Players",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Park43fc_90cd",
+      "groupName": "Park3feb_364c",
       "displayName": "Park",
       "icon": "icons/park.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Metro_Stationsbc1e_90cd",
+      "groupName": "Metro_Stationsbbea_364c",
       "displayName": "Metro Stations",
       "icon": "icons/rail_metro.png",
       "createInfoWindow": true,
       "checked": true
     },
     {
-      "groupName": "Regional_Rail_Stations43eb_90cd",
+      "groupName": "Regional_Rail_Stations441f_364c",
       "displayName": "Regional Rail Stations",
       "icon": "icons/station.png",
       "createInfoWindow": true,
