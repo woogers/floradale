@@ -1,11 +1,11 @@
 var markersDB={
-  "Players011e_81dd": {
+  "Playersa11e_71f1": {
     "created": false,
     "raw": [
       {
-        "x": -849.9431983375582,
-        "y": 68.9375,
-        "z": -416.2695703439491,
+        "x": -811.2923403621702,
+        "y": 84.36576210558698,
+        "z": -627.3134599424423,
         "icon": "https://overviewer.org/avatar/woogers",
         "text": "Last known location for woogers",
         "hovertext": "Last known location for woogers"
@@ -19,20 +19,28 @@ var markersDB={
         "hovertext": "Last known location for Nitorin"
       },
       {
-        "x": -737.5,
-        "y": 64.0,
-        "z": -396.5,
+        "x": -709.5046756154686,
+        "y": 70.0,
+        "z": -115.70197306535556,
         "icon": "https://overviewer.org/avatar/idiombomberz",
         "text": "Last known location for idiombomberz",
         "hovertext": "Last known location for idiombomberz"
       },
       {
-        "x": -777.3588834362758,
+        "x": -779.1383161809298,
         "y": 64.0,
-        "z": -394.4462203730642,
+        "z": -394.4035302448958,
         "icon": "https://overviewer.org/avatar/Adrianespa",
         "text": "Last known location for Adrianespa",
         "hovertext": "Last known location for Adrianespa"
+      },
+      {
+        "x": -709.3143756777472,
+        "y": 96.0,
+        "z": -523.0635734441934,
+        "icon": "https://overviewer.org/avatar/Kadhe",
+        "text": "Last known location for Kadhe",
+        "hovertext": "Last known location for Kadhe"
       },
       {
         "x": -739.117643034945,
@@ -61,7 +69,85 @@ var markersDB={
     ],
     "name": "Players"
   },
-  "Parkfeeb_81dd": {
+  "Industrya10d_71f1": {
+    "created": false,
+    "raw": [
+      {
+        "x": -756,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/farm.png",
+        "text": "Jackson Av Co-Op",
+        "hovertext": "Jackson Av Co-Op"
+      },
+      {
+        "x": -775,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/factory.png",
+        "text": "Forge",
+        "hovertext": "Forge"
+      },
+      {
+        "x": -797,
+        "y": 64,
+        "z": -372,
+        "icon": "icons/power_tower_small.png",
+        "text": "South Street Geothermal Power Station",
+        "hovertext": "South Street Geothermal Power Station"
+      },
+      {
+        "x": -845,
+        "y": 64,
+        "z": -437,
+        "icon": "icons/power_tower_small.png",
+        "text": "Jackson Cliffs Thermal Power Station",
+        "hovertext": "Jackson Cliffs Thermal Power Station"
+      },
+      {
+        "x": -845,
+        "y": 64,
+        "z": -404,
+        "icon": "icons/water_point.png",
+        "text": "La Atarjea Reservoir",
+        "hovertext": "La Atarjea Reservoir"
+      },
+      {
+        "x": -820,
+        "y": 64,
+        "z": -437,
+        "icon": "icons/storage_tank.png",
+        "text": "Riverside Oil Refinery",
+        "hovertext": "Riverside Oil Refinery"
+      },
+      {
+        "x": -760,
+        "y": 64,
+        "z": -341,
+        "icon": "icons/forest.png",
+        "text": "Tree Farm",
+        "hovertext": "Tree Farm"
+      },
+      {
+        "x": -758,
+        "y": 64,
+        "z": -370,
+        "icon": "icons/farm.png",
+        "text": "Pasture",
+        "hovertext": "Pasture"
+      },
+      {
+        "x": -790,
+        "y": 64,
+        "z": -341,
+        "icon": "icons/florist.png",
+        "text": "Apiary",
+        "hovertext": "Apiary"
+      }
+    ],
+    "name": "Industry"
+  },
+  "Park5eeb_71f1": {
     "created": false,
     "raw": [
       {
@@ -81,34 +167,77 @@ var markersDB={
     ],
     "name": "Park"
   },
-  "Regional_Rail_Stations041f_81dd": {
+  "Points_of_Interest6430_71f1": {
     "created": false,
     "raw": [
       {
-        "x": -727,
+        "x": -1813,
         "y": 64,
-        "z": -519,
-        "text": "<img src=\"https://i.imgur.com/ZhFXUYY.png\" width=\"300\"><br \\>Floradale Central Station is the uptown terminus of the Isafene Dales Regional Rail system, serving all lines.",
-        "hovertext": "Floradale Central Station"
+        "z": -2247,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
       },
       {
-        "x": -962,
+        "x": -174,
         "y": 64,
-        "z": -600,
-        "text": "<img src=\"https://i.imgur.com/s7hVwEV.png\" width=\"300\"><br \\>Cage Junction is a transfer point between mainland service over the Bridge and South Shore service via Buenavista. All trains stop here.",
-        "hovertext": "Cage Junction"
-      },
-      {
-        "x": -1266,
-        "y": 64,
-        "z": -902,
-        "text": "OPM-A1",
-        "hovertext": "OPM-A1"
+        "z": -672,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
       }
     ],
-    "name": "Regional Rail Stations"
+    "name": "Points of Interest"
   },
-  "Oil040e_81dd": {
+  "Towns5efc_71f1": {
+    "created": false,
+    "raw": [
+      {
+        "x": -713,
+        "y": 64,
+        "z": -506,
+        "text": "Floradale",
+        "hovertext": "Floradale"
+      },
+      {
+        "x": -695,
+        "y": 64,
+        "z": -656,
+        "text": "Henry Hill",
+        "hovertext": "Henry Hill"
+      },
+      {
+        "x": -950,
+        "y": 64,
+        "z": -417,
+        "text": "Old Town Floradale",
+        "hovertext": "Old Town Floradale"
+      },
+      {
+        "x": -495,
+        "y": 64,
+        "z": -2910,
+        "text": "Highlands",
+        "hovertext": "Highlands"
+      },
+      {
+        "x": -1322,
+        "y": 64,
+        "z": -2349,
+        "text": "Rivers",
+        "hovertext": "Rivers"
+      },
+      {
+        "x": -1899,
+        "y": 64,
+        "z": -268,
+        "text": "Buenavista",
+        "hovertext": "Buenavista"
+      }
+    ],
+    "name": "Towns"
+  },
+  "Oil640e_71f1": {
     "created": false,
     "raw": [
       {
@@ -343,155 +472,34 @@ var markersDB={
     ],
     "name": "Oil"
   },
-  "Industry010d_81dd": {
+  "Regional_Rail_Stations641f_71f1": {
     "created": false,
     "raw": [
       {
-        "x": -756,
+        "x": -727,
         "y": 64,
-        "z": -395,
-        "icon": "icons/farm.png",
-        "text": "Jackson Av Co-Op",
-        "hovertext": "Jackson Av Co-Op"
+        "z": -519,
+        "text": "<img src=\"https://i.imgur.com/ZhFXUYY.png\" width=\"300\"><br \\>Floradale Central Station is the uptown terminus of the Isafene Dales Regional Rail system, serving all lines.",
+        "hovertext": "Floradale Central Station"
       },
       {
-        "x": -775,
+        "x": -962,
         "y": 64,
-        "z": -395,
-        "icon": "icons/factory.png",
-        "text": "Forge",
-        "hovertext": "Forge"
+        "z": -600,
+        "text": "<img src=\"https://i.imgur.com/s7hVwEV.png\" width=\"300\"><br \\>Cage Junction is a transfer point between mainland service over the Bridge and South Shore service via Buenavista. All trains stop here.",
+        "hovertext": "Cage Junction"
       },
       {
-        "x": -797,
+        "x": -1266,
         "y": 64,
-        "z": -372,
-        "icon": "icons/power_tower_small.png",
-        "text": "South Street Geothermal Power Station",
-        "hovertext": "South Street Geothermal Power Station"
-      },
-      {
-        "x": -845,
-        "y": 64,
-        "z": -437,
-        "icon": "icons/power_tower_small.png",
-        "text": "Jackson Cliffs Thermal Power Station",
-        "hovertext": "Jackson Cliffs Thermal Power Station"
-      },
-      {
-        "x": -845,
-        "y": 64,
-        "z": -404,
-        "icon": "icons/water_point.png",
-        "text": "La Atarjea Reservoir",
-        "hovertext": "La Atarjea Reservoir"
-      },
-      {
-        "x": -820,
-        "y": 64,
-        "z": -437,
-        "icon": "icons/storage_tank.png",
-        "text": "Riverside Oil Refinery",
-        "hovertext": "Riverside Oil Refinery"
-      },
-      {
-        "x": -760,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/forest.png",
-        "text": "Tree Farm",
-        "hovertext": "Tree Farm"
-      },
-      {
-        "x": -758,
-        "y": 64,
-        "z": -370,
-        "icon": "icons/farm.png",
-        "text": "Pasture",
-        "hovertext": "Pasture"
-      },
-      {
-        "x": -790,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/florist.png",
-        "text": "Apiary",
-        "hovertext": "Apiary"
+        "z": -902,
+        "text": "OPM-A1",
+        "hovertext": "OPM-A1"
       }
     ],
-    "name": "Industry"
+    "name": "Regional Rail Stations"
   },
-  "Townsfefc_81dd": {
-    "created": false,
-    "raw": [
-      {
-        "x": -713,
-        "y": 64,
-        "z": -506,
-        "text": "Floradale",
-        "hovertext": "Floradale"
-      },
-      {
-        "x": -695,
-        "y": 64,
-        "z": -656,
-        "text": "Henry Hill",
-        "hovertext": "Henry Hill"
-      },
-      {
-        "x": -950,
-        "y": 64,
-        "z": -417,
-        "text": "Old Town Floradale",
-        "hovertext": "Old Town Floradale"
-      },
-      {
-        "x": -495,
-        "y": 64,
-        "z": -2910,
-        "text": "Highlands",
-        "hovertext": "Highlands"
-      },
-      {
-        "x": -1322,
-        "y": 64,
-        "z": -2349,
-        "text": "Rivers",
-        "hovertext": "Rivers"
-      },
-      {
-        "x": -1899,
-        "y": 64,
-        "z": -268,
-        "text": "Buenavista",
-        "hovertext": "Buenavista"
-      }
-    ],
-    "name": "Towns"
-  },
-  "Points_of_Interest0430_81dd": {
-    "created": false,
-    "raw": [
-      {
-        "x": -1813,
-        "y": 64,
-        "z": -2247,
-        "icon": "icons/obelisk.png",
-        "text": "Desert Pyramid",
-        "hovertext": "Desert Pyramid"
-      },
-      {
-        "x": -174,
-        "y": 64,
-        "z": -672,
-        "icon": "icons/obelisk.png",
-        "text": "Unknown",
-        "hovertext": "Unknown"
-      }
-    ],
-    "name": "Points of Interest"
-  },
-  "Metro_Stationsfbea_81dd": {
+  "Metro_Stations9bea_71f1": {
     "created": false,
     "raw": [
       {
