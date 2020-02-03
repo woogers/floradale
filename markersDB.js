@@ -1,5 +1,5 @@
 var markersDB={
-  "Regional_Rail_Stations441f_7870": {
+  "Regional_Rail_Stations341f_2ce7": {
     "created": false,
     "raw": [
       {
@@ -26,7 +26,203 @@ var markersDB={
     ],
     "name": "Regional Rail Stations"
   },
-  "Oil440e_7870": {
+  "Towns2dfc_2ce7": {
+    "created": false,
+    "raw": [
+      {
+        "x": -713,
+        "y": 64,
+        "z": -506,
+        "text": "Floradale",
+        "hovertext": "Floradale"
+      },
+      {
+        "x": -695,
+        "y": 64,
+        "z": -656,
+        "text": "Henry Hill",
+        "hovertext": "Henry Hill"
+      },
+      {
+        "x": -950,
+        "y": 64,
+        "z": -417,
+        "text": "Old Town Floradale",
+        "hovertext": "Old Town Floradale"
+      },
+      {
+        "x": -495,
+        "y": 64,
+        "z": -2910,
+        "text": "Highlands",
+        "hovertext": "Highlands"
+      },
+      {
+        "x": -1322,
+        "y": 64,
+        "z": -2349,
+        "text": "Rivers",
+        "hovertext": "Rivers"
+      },
+      {
+        "x": -1899,
+        "y": 64,
+        "z": -268,
+        "text": "Buenavista",
+        "hovertext": "Buenavista"
+      }
+    ],
+    "name": "Towns"
+  },
+  "Playersd21e_2ce7": {
+    "created": false,
+    "raw": [
+      {
+        "x": -771.4795175726246,
+        "y": 51.0,
+        "z": -19.69999998807907,
+        "icon": "https://overviewer.org/avatar/woogers",
+        "text": "Last known location for woogers",
+        "hovertext": "Last known location for woogers"
+      },
+      {
+        "x": -806.2480091495677,
+        "y": 18.5,
+        "z": -336.95079260734417,
+        "icon": "https://overviewer.org/avatar/Nitorin",
+        "text": "Last known location for Nitorin",
+        "hovertext": "Last known location for Nitorin"
+      },
+      {
+        "x": -776.6191241430187,
+        "y": 64.0,
+        "z": -394.97747189166887,
+        "icon": "https://overviewer.org/avatar/idiombomberz",
+        "text": "Last known location for idiombomberz",
+        "hovertext": "Last known location for idiombomberz"
+      },
+      {
+        "x": -779.1383161809298,
+        "y": 64.0,
+        "z": -394.4035302448958,
+        "icon": "https://overviewer.org/avatar/Adrianespa",
+        "text": "Last known location for Adrianespa",
+        "hovertext": "Last known location for Adrianespa"
+      },
+      {
+        "x": -829.7444975596453,
+        "y": 65.0,
+        "z": -547.4467312306653,
+        "icon": "https://overviewer.org/avatar/Kadhe",
+        "text": "Last known location for Kadhe",
+        "hovertext": "Last known location for Kadhe"
+      },
+      {
+        "x": -739.117643034945,
+        "y": 64.0,
+        "z": -392.1464653444819,
+        "icon": "https://overviewer.org/avatar/McDoogle523",
+        "text": "Last known location for McDoogle523",
+        "hovertext": "Last known location for McDoogle523"
+      },
+      {
+        "x": -703.6676301752369,
+        "y": 80.0,
+        "z": -528.1246096764658,
+        "icon": "https://overviewer.org/avatar/CrossRook",
+        "text": "Last known location for CrossRook",
+        "hovertext": "Last known location for CrossRook"
+      },
+      {
+        "x": -809.419627377518,
+        "y": 63.9375,
+        "z": -57.56464397107251,
+        "icon": "https://overviewer.org/avatar/MedicinalPersona",
+        "text": "Last known location for MedicinalPersona",
+        "hovertext": "Last known location for MedicinalPersona"
+      }
+    ],
+    "name": "Players"
+  },
+  "Industryd20d_2ce7": {
+    "created": false,
+    "raw": [
+      {
+        "x": -756,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/farm.png",
+        "text": "Jackson Av Co-Op",
+        "hovertext": "Jackson Av Co-Op"
+      },
+      {
+        "x": -775,
+        "y": 64,
+        "z": -395,
+        "icon": "icons/factory.png",
+        "text": "Forge",
+        "hovertext": "Forge"
+      },
+      {
+        "x": -797,
+        "y": 64,
+        "z": -372,
+        "icon": "icons/power_tower_small.png",
+        "text": "South Street Geothermal Power Station",
+        "hovertext": "South Street Geothermal Power Station"
+      },
+      {
+        "x": -845,
+        "y": 64,
+        "z": -437,
+        "icon": "icons/power_tower_small.png",
+        "text": "Jackson Cliffs Thermal Power Station",
+        "hovertext": "Jackson Cliffs Thermal Power Station"
+      },
+      {
+        "x": -845,
+        "y": 64,
+        "z": -404,
+        "icon": "icons/water_point.png",
+        "text": "La Atarjea Reservoir",
+        "hovertext": "La Atarjea Reservoir"
+      },
+      {
+        "x": -820,
+        "y": 64,
+        "z": -437,
+        "icon": "icons/storage_tank.png",
+        "text": "Riverside Oil Refinery",
+        "hovertext": "Riverside Oil Refinery"
+      },
+      {
+        "x": -760,
+        "y": 64,
+        "z": -341,
+        "icon": "icons/forest.png",
+        "text": "Tree Farm",
+        "hovertext": "Tree Farm"
+      },
+      {
+        "x": -758,
+        "y": 64,
+        "z": -370,
+        "icon": "icons/farm.png",
+        "text": "Pasture",
+        "hovertext": "Pasture"
+      },
+      {
+        "x": -790,
+        "y": 64,
+        "z": -341,
+        "icon": "icons/florist.png",
+        "text": "Apiary",
+        "hovertext": "Apiary"
+      }
+    ],
+    "name": "Industry"
+  },
+  "Oil340e_2ce7": {
     "created": false,
     "raw": [
       {
@@ -261,230 +457,7 @@ var markersDB={
     ],
     "name": "Oil"
   },
-  "Industryc20d_7870": {
-    "created": false,
-    "raw": [
-      {
-        "x": -756,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/farm.png",
-        "text": "Jackson Av Co-Op",
-        "hovertext": "Jackson Av Co-Op"
-      },
-      {
-        "x": -775,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/factory.png",
-        "text": "Forge",
-        "hovertext": "Forge"
-      },
-      {
-        "x": -797,
-        "y": 64,
-        "z": -372,
-        "icon": "icons/power_tower_small.png",
-        "text": "South Street Geothermal Power Station",
-        "hovertext": "South Street Geothermal Power Station"
-      },
-      {
-        "x": -845,
-        "y": 64,
-        "z": -437,
-        "icon": "icons/power_tower_small.png",
-        "text": "Jackson Cliffs Thermal Power Station",
-        "hovertext": "Jackson Cliffs Thermal Power Station"
-      },
-      {
-        "x": -845,
-        "y": 64,
-        "z": -404,
-        "icon": "icons/water_point.png",
-        "text": "La Atarjea Reservoir",
-        "hovertext": "La Atarjea Reservoir"
-      },
-      {
-        "x": -820,
-        "y": 64,
-        "z": -437,
-        "icon": "icons/storage_tank.png",
-        "text": "Riverside Oil Refinery",
-        "hovertext": "Riverside Oil Refinery"
-      },
-      {
-        "x": -760,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/forest.png",
-        "text": "Tree Farm",
-        "hovertext": "Tree Farm"
-      },
-      {
-        "x": -758,
-        "y": 64,
-        "z": -370,
-        "icon": "icons/farm.png",
-        "text": "Pasture",
-        "hovertext": "Pasture"
-      },
-      {
-        "x": -790,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/florist.png",
-        "text": "Apiary",
-        "hovertext": "Apiary"
-      }
-    ],
-    "name": "Industry"
-  },
-  "Playersc21e_7870": {
-    "created": false,
-    "raw": [
-      {
-        "x": -811.2923403621702,
-        "y": 84.36576210558698,
-        "z": -627.3134599424423,
-        "icon": "https://overviewer.org/avatar/woogers",
-        "text": "Last known location for woogers",
-        "hovertext": "Last known location for woogers"
-      },
-      {
-        "x": -806.2480091495677,
-        "y": 18.5,
-        "z": -336.95079260734417,
-        "icon": "https://overviewer.org/avatar/Nitorin",
-        "text": "Last known location for Nitorin",
-        "hovertext": "Last known location for Nitorin"
-      },
-      {
-        "x": -709.5046756154686,
-        "y": 70.0,
-        "z": -115.70197306535556,
-        "icon": "https://overviewer.org/avatar/idiombomberz",
-        "text": "Last known location for idiombomberz",
-        "hovertext": "Last known location for idiombomberz"
-      },
-      {
-        "x": -779.1383161809298,
-        "y": 64.0,
-        "z": -394.4035302448958,
-        "icon": "https://overviewer.org/avatar/Adrianespa",
-        "text": "Last known location for Adrianespa",
-        "hovertext": "Last known location for Adrianespa"
-      },
-      {
-        "x": -709.3143756777472,
-        "y": 96.0,
-        "z": -523.0635734441934,
-        "icon": "https://overviewer.org/avatar/Kadhe",
-        "text": "Last known location for Kadhe",
-        "hovertext": "Last known location for Kadhe"
-      },
-      {
-        "x": -739.117643034945,
-        "y": 64.0,
-        "z": -392.1464653444819,
-        "icon": "https://overviewer.org/avatar/McDoogle523",
-        "text": "Last known location for McDoogle523",
-        "hovertext": "Last known location for McDoogle523"
-      },
-      {
-        "x": -703.6676301752369,
-        "y": 80.0,
-        "z": -528.1246096764658,
-        "icon": "https://overviewer.org/avatar/CrossRook",
-        "text": "Last known location for CrossRook",
-        "hovertext": "Last known location for CrossRook"
-      },
-      {
-        "x": -809.419627377518,
-        "y": 63.9375,
-        "z": -57.56464397107251,
-        "icon": "https://overviewer.org/avatar/MedicinalPersona",
-        "text": "Last known location for MedicinalPersona",
-        "hovertext": "Last known location for MedicinalPersona"
-      }
-    ],
-    "name": "Players"
-  },
-  "Towns3dfc_7870": {
-    "created": false,
-    "raw": [
-      {
-        "x": -713,
-        "y": 64,
-        "z": -506,
-        "text": "Floradale",
-        "hovertext": "Floradale"
-      },
-      {
-        "x": -695,
-        "y": 64,
-        "z": -656,
-        "text": "Henry Hill",
-        "hovertext": "Henry Hill"
-      },
-      {
-        "x": -950,
-        "y": 64,
-        "z": -417,
-        "text": "Old Town Floradale",
-        "hovertext": "Old Town Floradale"
-      },
-      {
-        "x": -495,
-        "y": 64,
-        "z": -2910,
-        "text": "Highlands",
-        "hovertext": "Highlands"
-      },
-      {
-        "x": -1322,
-        "y": 64,
-        "z": -2349,
-        "text": "Rivers",
-        "hovertext": "Rivers"
-      },
-      {
-        "x": -1899,
-        "y": 64,
-        "z": -268,
-        "text": "Buenavista",
-        "hovertext": "Buenavista"
-      }
-    ],
-    "name": "Towns"
-  },
-  "Park3deb_7870": {
-    "created": false,
-    "raw": [
-      {
-        "x": -772,
-        "y": 64,
-        "z": -507,
-        "text": "City Hall Park",
-        "hovertext": "City Hall Park"
-      },
-      {
-        "x": -765,
-        "y": 64,
-        "z": -198,
-        "text": "Post Square",
-        "hovertext": "Post Square"
-      },
-      {
-        "x": -819,
-        "y": 64,
-        "z": -629,
-        "text": "12/1 Memorial Park",
-        "hovertext": "12/1 Memorial Park"
-      }
-    ],
-    "name": "Park"
-  },
-  "Points_of_Interest4430_7870": {
+  "Points_of_Interest3430_2ce7": {
     "created": false,
     "raw": [
       {
@@ -530,7 +503,34 @@ var markersDB={
     ],
     "name": "Points of Interest"
   },
-  "Metro_Stationsbbea_7870": {
+  "Park2deb_2ce7": {
+    "created": false,
+    "raw": [
+      {
+        "x": -772,
+        "y": 64,
+        "z": -507,
+        "text": "City Hall Park",
+        "hovertext": "City Hall Park"
+      },
+      {
+        "x": -765,
+        "y": 64,
+        "z": -198,
+        "text": "Post Square",
+        "hovertext": "Post Square"
+      },
+      {
+        "x": -819,
+        "y": 64,
+        "z": -629,
+        "text": "12/1 Memorial Park",
+        "hovertext": "12/1 Memorial Park"
+      }
+    ],
+    "name": "Park"
+  },
+  "Metro_Stationscbea_2ce7": {
     "created": false,
     "raw": [
       {
