@@ -1,46 +1,158 @@
 var markersDB={
-  "Regional_Rail_Stations0f30_11c2": {
+  "Points_of_Interest2f96_c0ac": {
     "created": false,
     "raw": [
       {
-        "x": -727,
+        "x": -1813,
         "y": 64,
-        "z": -519,
-        "text": "<img src=\"https://i.imgur.com/ZhFXUYY.png\" width=\"300\"><br \\>Floradale Central Station is the uptown terminus of the Isafene Dales Regional Rail system, serving all lines.",
-        "hovertext": "Floradale Central Station"
+        "z": -2247,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
       },
       {
-        "x": -962,
+        "x": -1693,
         "y": 64,
-        "z": -600,
-        "text": "<img src=\"https://i.imgur.com/s7hVwEV.png\" width=\"300\"><br \\>Cage Junction is a transfer point between mainland service over the Bridge and South Shore service via Buenavista. All trains stop here.",
-        "hovertext": "Cage Junction"
+        "z": -2815,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
       },
       {
-        "x": -1786,
+        "x": -174,
         "y": 64,
-        "z": -1425,
-        "text": "<img src=\"https://i.imgur.com/HJs43xP.png\" width=\"300\"><br \\>Nazca Mesa is a transfer point between Western Branches, Main Line services, and all service to Floradale. All trains stop here.",
-        "hovertext": "Nazca Mesa"
+        "z": -672,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
       },
       {
-        "x": -1335,
+        "x": -2080,
         "y": 64,
-        "z": -2326,
-        "text": "<img src=\"https://i.imgur.com/svZYphw.png\" width=\"300\"><br \\>Pisco is a local station on the Pisco Branch. All Pisco Branch trains stop here.",
+        "z": -2837,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
+      },
+      {
+        "x": -1757,
+        "y": 64,
+        "z": -1820,
+        "icon": "icons/obelisk.png",
+        "text": "Idiom Monument",
+        "hovertext": "Idiom Monument"
+      },
+      {
+        "x": -788,
+        "y": 64,
+        "z": -251,
+        "icon": "icons/hospital.png",
+        "text": "Postwick University Medical Center",
+        "hovertext": "Postwick University Medical Center"
+      },
+      {
+        "x": -796,
+        "y": 64,
+        "z": -169,
+        "icon": "icons/building_alt1.png",
+        "text": "Isafene Corporation Center",
+        "hovertext": "Isafene Corporation Center"
+      },
+      {
+        "x": -770,
+        "y": 64,
+        "z": -533,
+        "icon": "icons/town_hall.png",
+        "text": "Floradale City Hall",
+        "hovertext": "Floradale City Hall"
+      }
+    ],
+    "name": "Points of Interest"
+  },
+  "Towns2f41_c0ac": {
+    "created": false,
+    "raw": [
+      {
+        "x": -713,
+        "y": 64,
+        "z": -506,
+        "text": "Floradale",
+        "hovertext": "Floradale"
+      },
+      {
+        "x": -695,
+        "y": 64,
+        "z": -656,
+        "text": "Henry Hill",
+        "hovertext": "Henry Hill"
+      },
+      {
+        "x": -950,
+        "y": 64,
+        "z": -417,
+        "text": "Old Town Floradale",
+        "hovertext": "Old Town Floradale"
+      },
+      {
+        "x": -425,
+        "y": 64,
+        "z": -2910,
+        "text": "Highlands",
+        "hovertext": "Highlands"
+      },
+      {
+        "x": -1322,
+        "y": 64,
+        "z": -2349,
+        "text": "Pisco",
         "hovertext": "Pisco"
       },
       {
-        "x": -1266,
+        "x": -1899,
         "y": 64,
-        "z": -902,
-        "text": "OPM-A1",
-        "hovertext": "OPM-A1"
+        "z": -268,
+        "text": "Buenavista",
+        "hovertext": "Buenavista"
+      },
+      {
+        "x": -2007,
+        "y": 64,
+        "z": -2448,
+        "text": "San Andreo",
+        "hovertext": "San Andreo"
+      },
+      {
+        "x": -2186,
+        "y": 64,
+        "z": -2381,
+        "text": "Broken Land",
+        "hovertext": "Broken Land"
+      },
+      {
+        "x": -2203,
+        "y": 64,
+        "z": -2860,
+        "text": "Oceanside",
+        "hovertext": "Oceanside"
+      },
+      {
+        "x": -1850,
+        "y": 64,
+        "z": -1486,
+        "text": "Nazca City",
+        "hovertext": "Nazca City"
+      },
+      {
+        "x": -1938,
+        "y": 64,
+        "z": -3386,
+        "text": "North Point",
+        "hovertext": "North Point"
       }
     ],
-    "name": "Regional Rail Stations"
+    "name": "Towns"
   },
-  "Metro_Stationsfefc_11c2": {
+  "Metro_Stationsd084_c0ac": {
     "created": false,
     "raw": [
       {
@@ -328,85 +440,7 @@ var markersDB={
     ],
     "name": "Metro Stations"
   },
-  "Industry011e_11c2": {
-    "created": false,
-    "raw": [
-      {
-        "x": -756,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/farm.png",
-        "text": "Jackson Av Co-Op",
-        "hovertext": "Jackson Av Co-Op"
-      },
-      {
-        "x": -775,
-        "y": 64,
-        "z": -395,
-        "icon": "icons/factory.png",
-        "text": "Forge",
-        "hovertext": "Forge"
-      },
-      {
-        "x": -797,
-        "y": 64,
-        "z": -372,
-        "icon": "icons/power_tower_small.png",
-        "text": "South Street Geothermal Power Station",
-        "hovertext": "South Street Geothermal Power Station"
-      },
-      {
-        "x": -845,
-        "y": 64,
-        "z": -437,
-        "icon": "icons/power_tower_small.png",
-        "text": "Jackson Cliffs Thermal Power Station",
-        "hovertext": "Jackson Cliffs Thermal Power Station"
-      },
-      {
-        "x": -845,
-        "y": 64,
-        "z": -404,
-        "icon": "icons/water_point.png",
-        "text": "La Atarjea Reservoir",
-        "hovertext": "La Atarjea Reservoir"
-      },
-      {
-        "x": -820,
-        "y": 64,
-        "z": -437,
-        "icon": "icons/storage_tank.png",
-        "text": "Riverside Oil Refinery",
-        "hovertext": "Riverside Oil Refinery"
-      },
-      {
-        "x": -760,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/forest.png",
-        "text": "Tree Farm",
-        "hovertext": "Tree Farm"
-      },
-      {
-        "x": -758,
-        "y": 64,
-        "z": -370,
-        "icon": "icons/farm.png",
-        "text": "Pasture",
-        "hovertext": "Pasture"
-      },
-      {
-        "x": -790,
-        "y": 64,
-        "z": -341,
-        "icon": "icons/florist.png",
-        "text": "Apiary",
-        "hovertext": "Apiary"
-      }
-    ],
-    "name": "Industry"
-  },
-  "Parkfeda_11c2": {
+  "Park2f30_c0ac": {
     "created": false,
     "raw": [
       {
@@ -433,21 +467,69 @@ var markersDB={
     ],
     "name": "Park"
   },
-  "Players012f_11c2": {
+  "Regional_Rail_Stations2f85_c0ac": {
     "created": false,
     "raw": [
       {
-        "x": -1484.7997741406657,
-        "y": 71.0,
-        "z": -1693.4701517967228,
-        "icon": "https://overviewer.org/avatar/minecraft_esp",
-        "text": "Last known location for minecraft_esp",
-        "hovertext": "Last known location for minecraft_esp"
+        "x": -727,
+        "y": 64,
+        "z": -519,
+        "text": "<img src=\"https://i.imgur.com/ZhFXUYY.png\" width=\"300\"><br \\>Floradale Central Station is the uptown terminus of the Isafene Dales Regional Rail system, serving all lines.",
+        "hovertext": "Floradale Central Station"
       },
       {
-        "x": -772.934499737902,
-        "y": 66.62373420303295,
-        "z": -457.8622355709069,
+        "x": -962,
+        "y": 64,
+        "z": -600,
+        "text": "<img src=\"https://i.imgur.com/s7hVwEV.png\" width=\"300\"><br \\>Cage Junction is a transfer point between mainland service over the Bridge and South Shore service via Buenavista. All trains stop here.",
+        "hovertext": "Cage Junction"
+      },
+      {
+        "x": -1786,
+        "y": 64,
+        "z": -1425,
+        "text": "<img src=\"https://i.imgur.com/HJs43xP.png\" width=\"300\"><br \\>Nazca Mesa is a transfer point between Western Branches, Main Line services, and all service to Floradale. All trains stop here.",
+        "hovertext": "Nazca Mesa"
+      },
+      {
+        "x": -1335,
+        "y": 64,
+        "z": -2326,
+        "text": "<img src=\"https://i.imgur.com/svZYphw.png\" width=\"300\"><br \\>Pisco is a local station on the Pisco Branch. All Pisco Branch trains stop here.",
+        "hovertext": "Pisco"
+      },
+      {
+        "x": -1056,
+        "y": 64,
+        "z": -1867,
+        "text": "<img src=\"https://i.imgur.com/v1PujeJ.png\" width=\"300\"><br \\>Painted Foothills is a local station on the Main Line. Main Line local trains stop here.",
+        "hovertext": "Painted Foothills"
+      },
+      {
+        "x": -1266,
+        "y": 64,
+        "z": -902,
+        "text": "OPM-A1",
+        "hovertext": "OPM-A1"
+      }
+    ],
+    "name": "Regional Rail Stations"
+  },
+  "Playersd0d9_c0ac": {
+    "created": false,
+    "raw": [
+      {
+        "x": -780.3153632936336,
+        "y": 64.0,
+        "z": -396.32655908319356,
+        "icon": "https://overviewer.org/avatar/YabukiKana",
+        "text": "Last known location for YabukiKana",
+        "hovertext": "Last known location for YabukiKana"
+      },
+      {
+        "x": -777.1207580913889,
+        "y": 60.200000047683716,
+        "z": -631.8696520058653,
         "icon": "https://overviewer.org/avatar/woogers",
         "text": "Last known location for woogers",
         "hovertext": "Last known location for woogers"
@@ -461,17 +543,17 @@ var markersDB={
         "hovertext": "Last known location for Nitorin"
       },
       {
-        "x": -776.7972343818763,
-        "y": 67.0,
-        "z": -79.84922114579219,
+        "x": -810.6978132450262,
+        "y": 64.0,
+        "z": -421.87855574824164,
         "icon": "https://overviewer.org/avatar/idiombomberz",
         "text": "Last known location for idiombomberz",
         "hovertext": "Last known location for idiombomberz"
       },
       {
-        "x": -780.7275380987551,
+        "x": -778.5440801203878,
         "y": 64.0,
-        "z": -396.5276379623932,
+        "z": -392.4719823119945,
         "icon": "https://overviewer.org/avatar/Adrianespa",
         "text": "Last known location for Adrianespa",
         "hovertext": "Last known location for Adrianespa"
@@ -511,7 +593,7 @@ var markersDB={
     ],
     "name": "Players"
   },
-  "Oil010d_11c2": {
+  "Oild0b7_c0ac": {
     "created": false,
     "raw": [
       {
@@ -768,154 +850,102 @@ var markersDB={
         "icon": "icons/drinking-water.png",
         "text": "Possible Oil W",
         "hovertext": "Possible Oil W"
+      },
+      {
+        "x": -1801,
+        "y": 64,
+        "z": -3383,
+        "icon": "icons/drinking-water.png",
+        "text": "Possible Oil X",
+        "hovertext": "Possible Oil X"
+      },
+      {
+        "x": -2683,
+        "y": 64,
+        "z": -2854,
+        "icon": "icons/drinking-water.png",
+        "text": "Possible Oil Y",
+        "hovertext": "Possible Oil Y"
       }
     ],
     "name": "Oil"
   },
-  "Points_of_Interestf0c8_11c2": {
+  "Industryd0c8_c0ac": {
     "created": false,
     "raw": [
       {
-        "x": -1813,
+        "x": -756,
         "y": 64,
-        "z": -2247,
-        "icon": "icons/obelisk.png",
-        "text": "Desert Pyramid",
-        "hovertext": "Desert Pyramid"
+        "z": -395,
+        "icon": "icons/farm.png",
+        "text": "Jackson Av Co-Op",
+        "hovertext": "Jackson Av Co-Op"
       },
       {
-        "x": -1693,
+        "x": -775,
         "y": 64,
-        "z": -2815,
-        "icon": "icons/obelisk.png",
-        "text": "Desert Pyramid",
-        "hovertext": "Desert Pyramid"
+        "z": -395,
+        "icon": "icons/factory.png",
+        "text": "Forge",
+        "hovertext": "Forge"
       },
       {
-        "x": -174,
+        "x": -797,
         "y": 64,
-        "z": -672,
-        "icon": "icons/obelisk.png",
-        "text": "Unknown",
-        "hovertext": "Unknown"
+        "z": -372,
+        "icon": "icons/power_tower_small.png",
+        "text": "South Street Geothermal Power Station",
+        "hovertext": "South Street Geothermal Power Station"
       },
       {
-        "x": -2080,
+        "x": -845,
         "y": 64,
-        "z": -2837,
-        "icon": "icons/obelisk.png",
-        "text": "Unknown",
-        "hovertext": "Unknown"
+        "z": -437,
+        "icon": "icons/power_tower_small.png",
+        "text": "Jackson Cliffs Thermal Power Station",
+        "hovertext": "Jackson Cliffs Thermal Power Station"
       },
       {
-        "x": -1757,
+        "x": -845,
         "y": 64,
-        "z": -1820,
-        "icon": "icons/obelisk.png",
-        "text": "Idiom Monument",
-        "hovertext": "Idiom Monument"
+        "z": -404,
+        "icon": "icons/water_point.png",
+        "text": "La Atarjea Reservoir",
+        "hovertext": "La Atarjea Reservoir"
       },
       {
-        "x": -788,
+        "x": -820,
         "y": 64,
-        "z": -251,
-        "icon": "icons/hospital.png",
-        "text": "Postwick University Medical Center",
-        "hovertext": "Postwick University Medical Center"
+        "z": -437,
+        "icon": "icons/storage_tank.png",
+        "text": "Riverside Oil Refinery",
+        "hovertext": "Riverside Oil Refinery"
       },
       {
-        "x": -796,
+        "x": -760,
         "y": 64,
-        "z": -169,
-        "icon": "icons/building_alt1.png",
-        "text": "Isafene Corporation Center",
-        "hovertext": "Isafene Corporation Center"
+        "z": -341,
+        "icon": "icons/forest.png",
+        "text": "Tree Farm",
+        "hovertext": "Tree Farm"
       },
       {
-        "x": -770,
+        "x": -758,
         "y": 64,
-        "z": -533,
-        "icon": "icons/town_hall.png",
-        "text": "Floradale City Hall",
-        "hovertext": "Floradale City Hall"
+        "z": -370,
+        "icon": "icons/farm.png",
+        "text": "Pasture",
+        "hovertext": "Pasture"
+      },
+      {
+        "x": -790,
+        "y": 64,
+        "z": -341,
+        "icon": "icons/florist.png",
+        "text": "Apiary",
+        "hovertext": "Apiary"
       }
     ],
-    "name": "Points of Interest"
-  },
-  "Townsfeeb_11c2": {
-    "created": false,
-    "raw": [
-      {
-        "x": -713,
-        "y": 64,
-        "z": -506,
-        "text": "Floradale",
-        "hovertext": "Floradale"
-      },
-      {
-        "x": -695,
-        "y": 64,
-        "z": -656,
-        "text": "Henry Hill",
-        "hovertext": "Henry Hill"
-      },
-      {
-        "x": -950,
-        "y": 64,
-        "z": -417,
-        "text": "Old Town Floradale",
-        "hovertext": "Old Town Floradale"
-      },
-      {
-        "x": -425,
-        "y": 64,
-        "z": -2910,
-        "text": "Highlands",
-        "hovertext": "Highlands"
-      },
-      {
-        "x": -1322,
-        "y": 64,
-        "z": -2349,
-        "text": "Pisco",
-        "hovertext": "Pisco"
-      },
-      {
-        "x": -1899,
-        "y": 64,
-        "z": -268,
-        "text": "Buenavista",
-        "hovertext": "Buenavista"
-      },
-      {
-        "x": -2007,
-        "y": 64,
-        "z": -2448,
-        "text": "San Andreo",
-        "hovertext": "San Andreo"
-      },
-      {
-        "x": -2186,
-        "y": 64,
-        "z": -2381,
-        "text": "Broken Land",
-        "hovertext": "Broken Land"
-      },
-      {
-        "x": -2203,
-        "y": 64,
-        "z": -2860,
-        "text": "Oceanside",
-        "hovertext": "Oceanside"
-      },
-      {
-        "x": -1850,
-        "y": 64,
-        "z": -1486,
-        "text": "Nazca City",
-        "hovertext": "Nazca City"
-      }
-    ],
-    "name": "Towns"
+    "name": "Industry"
   }
 };
