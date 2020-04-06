@@ -1,311 +1,5 @@
 var markersDB={
-  "Points_of_Interest8f96_9ae0": {
-    "created": false,
-    "raw": [
-      {
-        "x": -1813,
-        "y": 64,
-        "z": -2247,
-        "icon": "icons/obelisk.png",
-        "text": "Desert Pyramid",
-        "hovertext": "Desert Pyramid"
-      },
-      {
-        "x": -1693,
-        "y": 64,
-        "z": -2815,
-        "icon": "icons/obelisk.png",
-        "text": "Desert Pyramid",
-        "hovertext": "Desert Pyramid"
-      },
-      {
-        "x": -174,
-        "y": 64,
-        "z": -672,
-        "icon": "icons/obelisk.png",
-        "text": "Unknown",
-        "hovertext": "Unknown"
-      },
-      {
-        "x": -2080,
-        "y": 64,
-        "z": -2837,
-        "icon": "icons/obelisk.png",
-        "text": "Unknown",
-        "hovertext": "Unknown"
-      },
-      {
-        "x": -1757,
-        "y": 64,
-        "z": -1820,
-        "icon": "icons/obelisk.png",
-        "text": "Idiom Monument",
-        "hovertext": "Idiom Monument"
-      },
-      {
-        "x": -788,
-        "y": 64,
-        "z": -251,
-        "icon": "icons/hospital.png",
-        "text": "Postwick University Medical Center",
-        "hovertext": "Postwick University Medical Center"
-      },
-      {
-        "x": -796,
-        "y": 64,
-        "z": -169,
-        "icon": "icons/building_alt1.png",
-        "text": "Isafene Corporation Center",
-        "hovertext": "Isafene Corporation Center"
-      },
-      {
-        "x": -770,
-        "y": 64,
-        "z": -533,
-        "icon": "icons/town_hall.png",
-        "text": "Floradale City Hall",
-        "hovertext": "Floradale City Hall"
-      }
-    ],
-    "name": "Points of Interest"
-  },
-  "Players70d9_9ae0": {
-    "created": false,
-    "raw": [
-      {
-        "x": -1338.2983123166225,
-        "y": 73.5,
-        "z": -1821.4397221768254,
-        "icon": "https://overviewer.org/avatar/YabukiKana",
-        "text": "Last known location for YabukiKana",
-        "hovertext": "Last known location for YabukiKana"
-      },
-      {
-        "x": -1789.902122054574,
-        "y": 68.5955146109465,
-        "z": -1591.3729567545042,
-        "icon": "https://overviewer.org/avatar/woogers",
-        "text": "Last known location for woogers",
-        "hovertext": "Last known location for woogers"
-      },
-      {
-        "x": -1338.320900969893,
-        "y": 68.0,
-        "z": -2313.303026355512,
-        "icon": "https://overviewer.org/avatar/Nitorin",
-        "text": "Last known location for Nitorin",
-        "hovertext": "Last known location for Nitorin"
-      },
-      {
-        "x": -788.1335549363367,
-        "y": 64.0,
-        "z": -379.3676536873481,
-        "icon": "https://overviewer.org/avatar/idiombomberz",
-        "text": "Last known location for idiombomberz",
-        "hovertext": "Last known location for idiombomberz"
-      },
-      {
-        "x": -1293.9240217402635,
-        "y": 70.0,
-        "z": -1856.414994181354,
-        "icon": "https://overviewer.org/avatar/Adrianespa",
-        "text": "Last known location for Adrianespa",
-        "hovertext": "Last known location for Adrianespa"
-      },
-      {
-        "x": -829.7444975596453,
-        "y": 65.0,
-        "z": -547.4467312306653,
-        "icon": "https://overviewer.org/avatar/Kadhe",
-        "text": "Last known location for Kadhe",
-        "hovertext": "Last known location for Kadhe"
-      },
-      {
-        "x": -772.0114573486092,
-        "y": 63.9375,
-        "z": -149.71929106467005,
-        "icon": "https://overviewer.org/avatar/McDoogle523",
-        "text": "Last known location for McDoogle523",
-        "hovertext": "Last known location for McDoogle523"
-      },
-      {
-        "x": -703.6676301752369,
-        "y": 80.0,
-        "z": -528.1246096764658,
-        "icon": "https://overviewer.org/avatar/CrossRook",
-        "text": "Last known location for CrossRook",
-        "hovertext": "Last known location for CrossRook"
-      },
-      {
-        "x": -809.419627377518,
-        "y": 63.9375,
-        "z": -57.56464397107251,
-        "icon": "https://overviewer.org/avatar/MedicinalPersona",
-        "text": "Last known location for MedicinalPersona",
-        "hovertext": "Last known location for MedicinalPersona"
-      }
-    ],
-    "name": "Players"
-  },
-  "Regional_Rail_Stations8f85_9ae0": {
-    "created": false,
-    "raw": [
-      {
-        "x": -727,
-        "y": 64,
-        "z": -519,
-        "text": "<img src=\"https://i.imgur.com/ZhFXUYY.png\" width=\"300\"><br \\>Floradale Central Station is the uptown terminus of the Isafene Dales Regional Rail system, serving all lines.",
-        "hovertext": "Floradale Central Station"
-      },
-      {
-        "x": -962,
-        "y": 64,
-        "z": -600,
-        "text": "<img src=\"https://i.imgur.com/s7hVwEV.png\" width=\"300\"><br \\>Cage Junction is a transfer point between mainland service over the Bridge and South Shore service via Buenavista. All trains stop here.",
-        "hovertext": "Cage Junction"
-      },
-      {
-        "x": -1786,
-        "y": 64,
-        "z": -1425,
-        "text": "<img src=\"https://i.imgur.com/HJs43xP.png\" width=\"300\"><br \\>Nazca Mesa is a transfer point between Western Branches, Main Line services, and all service to Floradale. All trains stop here.",
-        "hovertext": "Nazca Mesa"
-      },
-      {
-        "x": -1335,
-        "y": 64,
-        "z": -2326,
-        "text": "<img src=\"https://i.imgur.com/svZYphw.png\" width=\"300\"><br \\>Pisco is a local station on the Pisco Branch. All Pisco Branch trains stop here.",
-        "hovertext": "Pisco"
-      },
-      {
-        "x": -1056,
-        "y": 64,
-        "z": -1867,
-        "text": "<img src=\"https://i.imgur.com/v1PujeJ.png\" width=\"300\"><br \\>Painted Foothills is a local station on the Main Line. Main Line local trains stop here.",
-        "hovertext": "Painted Foothills"
-      },
-      {
-        "x": -1266,
-        "y": 64,
-        "z": -902,
-        "text": "OPM-A1",
-        "hovertext": "OPM-A1"
-      }
-    ],
-    "name": "Regional Rail Stations"
-  },
-  "Park8f30_9ae0": {
-    "created": false,
-    "raw": [
-      {
-        "x": -772,
-        "y": 64,
-        "z": -507,
-        "text": "City Hall Park",
-        "hovertext": "City Hall Park"
-      },
-      {
-        "x": -765,
-        "y": 64,
-        "z": -198,
-        "text": "Post Square",
-        "hovertext": "Post Square"
-      },
-      {
-        "x": -819,
-        "y": 64,
-        "z": -629,
-        "text": "12/1 Memorial Park",
-        "hovertext": "12/1 Memorial Park"
-      }
-    ],
-    "name": "Park"
-  },
-  "Towns8f41_9ae0": {
-    "created": false,
-    "raw": [
-      {
-        "x": -713,
-        "y": 64,
-        "z": -506,
-        "text": "Floradale",
-        "hovertext": "Floradale"
-      },
-      {
-        "x": -695,
-        "y": 64,
-        "z": -656,
-        "text": "Henry Hill",
-        "hovertext": "Henry Hill"
-      },
-      {
-        "x": -950,
-        "y": 64,
-        "z": -417,
-        "text": "Old Town Floradale",
-        "hovertext": "Old Town Floradale"
-      },
-      {
-        "x": -425,
-        "y": 64,
-        "z": -2910,
-        "text": "Highlands",
-        "hovertext": "Highlands"
-      },
-      {
-        "x": -1322,
-        "y": 64,
-        "z": -2349,
-        "text": "Pisco",
-        "hovertext": "Pisco"
-      },
-      {
-        "x": -1899,
-        "y": 64,
-        "z": -268,
-        "text": "Buenavista",
-        "hovertext": "Buenavista"
-      },
-      {
-        "x": -2007,
-        "y": 64,
-        "z": -2448,
-        "text": "San Andreo",
-        "hovertext": "San Andreo"
-      },
-      {
-        "x": -2186,
-        "y": 64,
-        "z": -2381,
-        "text": "Broken Land",
-        "hovertext": "Broken Land"
-      },
-      {
-        "x": -2203,
-        "y": 64,
-        "z": -2860,
-        "text": "Oceanside",
-        "hovertext": "Oceanside"
-      },
-      {
-        "x": -1850,
-        "y": 64,
-        "z": -1486,
-        "text": "Nazca City",
-        "hovertext": "Nazca City"
-      },
-      {
-        "x": -1938,
-        "y": 64,
-        "z": -3386,
-        "text": "North Point",
-        "hovertext": "North Point"
-      }
-    ],
-    "name": "Towns"
-  },
-  "Metro_Stations7084_9ae0": {
+  "Metro_Stationse084_d349": {
     "created": false,
     "raw": [
       {
@@ -593,7 +287,313 @@ var markersDB={
     ],
     "name": "Metro Stations"
   },
-  "Oil70b7_9ae0": {
+  "Regional_Rail_Stations1f85_d349": {
+    "created": false,
+    "raw": [
+      {
+        "x": -727,
+        "y": 64,
+        "z": -519,
+        "text": "<img src=\"https://i.imgur.com/ZhFXUYY.png\" width=\"300\"><br \\>Floradale Central Station is the uptown terminus of the Isafene Dales Regional Rail system, serving all lines.",
+        "hovertext": "Floradale Central Station"
+      },
+      {
+        "x": -962,
+        "y": 64,
+        "z": -600,
+        "text": "<img src=\"https://i.imgur.com/s7hVwEV.png\" width=\"300\"><br \\>Cage Junction is a transfer point between mainland service over the Bridge and South Shore service via Buenavista. All trains stop here.",
+        "hovertext": "Cage Junction"
+      },
+      {
+        "x": -1786,
+        "y": 64,
+        "z": -1425,
+        "text": "<img src=\"https://i.imgur.com/HJs43xP.png\" width=\"300\"><br \\>Nazca Mesa is a transfer point between Western Branches, Main Line services, and all service to Floradale. All trains stop here.",
+        "hovertext": "Nazca Mesa"
+      },
+      {
+        "x": -1335,
+        "y": 64,
+        "z": -2326,
+        "text": "<img src=\"https://i.imgur.com/svZYphw.png\" width=\"300\"><br \\>Pisco is a local station on the Pisco Branch. All Pisco Branch trains stop here.",
+        "hovertext": "Pisco"
+      },
+      {
+        "x": -1056,
+        "y": 64,
+        "z": -1867,
+        "text": "<img src=\"https://i.imgur.com/v1PujeJ.png\" width=\"300\"><br \\>Painted Foothills is a local station on the Main Line. Main Line local trains stop here.",
+        "hovertext": "Painted Foothills"
+      },
+      {
+        "x": -1266,
+        "y": 64,
+        "z": -902,
+        "text": "OPM-A1",
+        "hovertext": "OPM-A1"
+      }
+    ],
+    "name": "Regional Rail Stations"
+  },
+  "Park1f30_d349": {
+    "created": false,
+    "raw": [
+      {
+        "x": -772,
+        "y": 64,
+        "z": -507,
+        "text": "City Hall Park",
+        "hovertext": "City Hall Park"
+      },
+      {
+        "x": -765,
+        "y": 64,
+        "z": -198,
+        "text": "Post Square",
+        "hovertext": "Post Square"
+      },
+      {
+        "x": -819,
+        "y": 64,
+        "z": -629,
+        "text": "12/1 Memorial Park",
+        "hovertext": "12/1 Memorial Park"
+      }
+    ],
+    "name": "Park"
+  },
+  "Towns1f41_d349": {
+    "created": false,
+    "raw": [
+      {
+        "x": -713,
+        "y": 64,
+        "z": -506,
+        "text": "Floradale",
+        "hovertext": "Floradale"
+      },
+      {
+        "x": -695,
+        "y": 64,
+        "z": -656,
+        "text": "Henry Hill",
+        "hovertext": "Henry Hill"
+      },
+      {
+        "x": -950,
+        "y": 64,
+        "z": -417,
+        "text": "Old Town Floradale",
+        "hovertext": "Old Town Floradale"
+      },
+      {
+        "x": -425,
+        "y": 64,
+        "z": -2910,
+        "text": "Highlands",
+        "hovertext": "Highlands"
+      },
+      {
+        "x": -1322,
+        "y": 64,
+        "z": -2349,
+        "text": "Pisco",
+        "hovertext": "Pisco"
+      },
+      {
+        "x": -1899,
+        "y": 64,
+        "z": -268,
+        "text": "Buenavista",
+        "hovertext": "Buenavista"
+      },
+      {
+        "x": -2007,
+        "y": 64,
+        "z": -2448,
+        "text": "San Andreo",
+        "hovertext": "San Andreo"
+      },
+      {
+        "x": -2186,
+        "y": 64,
+        "z": -2381,
+        "text": "Broken Land",
+        "hovertext": "Broken Land"
+      },
+      {
+        "x": -2203,
+        "y": 64,
+        "z": -2860,
+        "text": "Oceanside",
+        "hovertext": "Oceanside"
+      },
+      {
+        "x": -1850,
+        "y": 64,
+        "z": -1486,
+        "text": "Nazca City",
+        "hovertext": "Nazca City"
+      },
+      {
+        "x": -1938,
+        "y": 64,
+        "z": -3386,
+        "text": "North Point",
+        "hovertext": "North Point"
+      }
+    ],
+    "name": "Towns"
+  },
+  "Points_of_Interest1f96_d349": {
+    "created": false,
+    "raw": [
+      {
+        "x": -1813,
+        "y": 64,
+        "z": -2247,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
+      },
+      {
+        "x": -1693,
+        "y": 64,
+        "z": -2815,
+        "icon": "icons/obelisk.png",
+        "text": "Desert Pyramid",
+        "hovertext": "Desert Pyramid"
+      },
+      {
+        "x": -174,
+        "y": 64,
+        "z": -672,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
+      },
+      {
+        "x": -2080,
+        "y": 64,
+        "z": -2837,
+        "icon": "icons/obelisk.png",
+        "text": "Unknown",
+        "hovertext": "Unknown"
+      },
+      {
+        "x": -1757,
+        "y": 64,
+        "z": -1820,
+        "icon": "icons/obelisk.png",
+        "text": "Idiom Monument",
+        "hovertext": "Idiom Monument"
+      },
+      {
+        "x": -788,
+        "y": 64,
+        "z": -251,
+        "icon": "icons/hospital.png",
+        "text": "Postwick University Medical Center",
+        "hovertext": "Postwick University Medical Center"
+      },
+      {
+        "x": -796,
+        "y": 64,
+        "z": -169,
+        "icon": "icons/building_alt1.png",
+        "text": "Isafene Corporation Center",
+        "hovertext": "Isafene Corporation Center"
+      },
+      {
+        "x": -770,
+        "y": 64,
+        "z": -533,
+        "icon": "icons/town_hall.png",
+        "text": "Floradale City Hall",
+        "hovertext": "Floradale City Hall"
+      }
+    ],
+    "name": "Points of Interest"
+  },
+  "Playerse0d9_d349": {
+    "created": false,
+    "raw": [
+      {
+        "x": -1338.2983123166225,
+        "y": 73.5,
+        "z": -1821.4397221768254,
+        "icon": "https://overviewer.org/avatar/YabukiKana",
+        "text": "Last known location for YabukiKana",
+        "hovertext": "Last known location for YabukiKana"
+      },
+      {
+        "x": -1034.5973585818451,
+        "y": 125.78416361323481,
+        "z": -448.2061732019169,
+        "icon": "https://overviewer.org/avatar/woogers",
+        "text": "Last known location for woogers",
+        "hovertext": "Last known location for woogers"
+      },
+      {
+        "x": -1338.320900969893,
+        "y": 68.0,
+        "z": -2313.303026355512,
+        "icon": "https://overviewer.org/avatar/Nitorin",
+        "text": "Last known location for Nitorin",
+        "hovertext": "Last known location for Nitorin"
+      },
+      {
+        "x": -1031.9421309655556,
+        "y": 78.0,
+        "z": -588.2741945374528,
+        "icon": "https://overviewer.org/avatar/idiombomberz",
+        "text": "Last known location for idiombomberz",
+        "hovertext": "Last known location for idiombomberz"
+      },
+      {
+        "x": -1293.9240217402635,
+        "y": 70.0,
+        "z": -1856.414994181354,
+        "icon": "https://overviewer.org/avatar/Adrianespa",
+        "text": "Last known location for Adrianespa",
+        "hovertext": "Last known location for Adrianespa"
+      },
+      {
+        "x": -829.7444975596453,
+        "y": 65.0,
+        "z": -547.4467312306653,
+        "icon": "https://overviewer.org/avatar/Kadhe",
+        "text": "Last known location for Kadhe",
+        "hovertext": "Last known location for Kadhe"
+      },
+      {
+        "x": -772.0114573486092,
+        "y": 63.9375,
+        "z": -149.71929106467005,
+        "icon": "https://overviewer.org/avatar/McDoogle523",
+        "text": "Last known location for McDoogle523",
+        "hovertext": "Last known location for McDoogle523"
+      },
+      {
+        "x": -703.6676301752369,
+        "y": 80.0,
+        "z": -528.1246096764658,
+        "icon": "https://overviewer.org/avatar/CrossRook",
+        "text": "Last known location for CrossRook",
+        "hovertext": "Last known location for CrossRook"
+      },
+      {
+        "x": -809.419627377518,
+        "y": 63.9375,
+        "z": -57.56464397107251,
+        "icon": "https://overviewer.org/avatar/MedicinalPersona",
+        "text": "Last known location for MedicinalPersona",
+        "hovertext": "Last known location for MedicinalPersona"
+      }
+    ],
+    "name": "Players"
+  },
+  "Oile0b7_d349": {
     "created": false,
     "raw": [
       {
@@ -870,7 +870,7 @@ var markersDB={
     ],
     "name": "Oil"
   },
-  "Industry70c8_9ae0": {
+  "Industrye0c8_d349": {
     "created": false,
     "raw": [
       {
